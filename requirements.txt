@@ -1,0 +1,3 @@
+selenium
+fake-useragent
+google-cloud-bigquery
